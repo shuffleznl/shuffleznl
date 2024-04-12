@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shufflez
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning about 3D printers and modelling, Python and 'AI'
+- 👀 Always interested in learning
+- 🌱 I’m currently learning about non-planar 3D printing, NERF modelling and Reasoning 'AI'
 
 - 📫 shufflez -a-t- gmail.com
 
